@@ -1,0 +1,17 @@
+lstags:
+  repositories:
+    # k8s.gcr.io is just gcr.io/k8s-artifacts-prod, currently, however the k8s-artifacts-prod repo is not public, only available from k8s.gcr.io domain" 
+    # the gcr.io/google_containers repo is not longer updated and is now a read-only legacy endpoint.
+    - "k8s.gcr.io/coredns"
+    - "k8s.gcr.io/etcd-am64"
+    - "k8s.gcr.io/k8s-dns-dnsmasq-nanny-amd64"
+    - "k8s.gcr.io/k8s-dns-kube-dns-amd64"
+    - "k8s.gcr.io/k8s-dns-sidecar-amd64"
+    - "k8s.gcr.io/k8s-apiserver-amd64"
+    - "k8s.gcr.io/k8s-controller-manager-amd64"
+    - "k8s.gcr.io/k8s-proxy-amd64"
+    - "k8s.gcr.io/k8s-dashboard-amd64"
+    - "k8s.gcr.io/k8s-dashboard-init-amd64"
+    - "k8s.gcr.io/k8s-scheduler-amd64"
+    - "k8s.gcr.io/pause"
+    - "k8s.gcr.io/pause-amd64"

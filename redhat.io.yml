@@ -1,0 +1,11 @@
+lstags:
+  repositories:
+    - "registry.redhat.io/rhel7=7.8,7.7"
+    - "registry.redhat.io/ubi8/ubi:latest"
+    - "registry.redhat.io/ubi8/ubi-init:latest"
+    - "registry.redhat.io/ubi8/ubi-minimal:latest"
+    - "registry.redhat.io/ubi8/s2i-core:latest"
+    - "registry.redhat.io/ubi8/python-27:latest"
+    - "registry.redhat.io/ubi8/python-36:latest"
+    - "registry.redhat.io/ubi8/python-38:latest"
+    - "registry.redhat.io/ubi8/ruby-25:latest"

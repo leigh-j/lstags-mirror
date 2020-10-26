@@ -1,0 +1,16 @@
+lstags:
+  repositories:
+    # all the following are now not updated, use k8s.gcr.io instead which is a convenince domain for gcr.io/k8s-artifcats-prod 
+    - "gcr.io/google_containers/coredns"
+    - "gcr.io/google_containers/etcd-am64"
+    - "gcr.io/google_containers/k8s-dns-dnsmasq-nanny-amd64"
+    - "gcr.io/google_containers/k8s-dns-kube-dns-amd64"
+    - "gcr.io/google_containers/k8s-dns-sidecar-amd64"
+    - "gcr.io/google_containers/k8s-apiserver-amd64"
+    - "gcr.io/google_containers/k8s-controller-manager-amd64"
+    - "gcr.io/google_containers/k8s-proxy-amd64"
+    - "gcr.io/google_containers/k8s-dashboard-amd64"
+    - "gcr.io/google_containers/k8s-dashboard-init-amd64"
+    - "gcr.io/google_containers/k8s-scheduler-amd64"
+    - "gcr.io/google_containers/pause"
+    - "gcr.io/google_containers/pause-amd64"
