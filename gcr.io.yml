@@ -12,5 +12,5 @@ lstags:
     - "gcr.io/google_containers/k8s-dashboard-amd64"
     - "gcr.io/google_containers/k8s-dashboard-init-amd64"
     - "gcr.io/google_containers/k8s-scheduler-amd64"
-    - "gcr.io/google_containers/pause"
+    - "gcr.io/google_containers/pause:3.2"
     - "gcr.io/google_containers/pause-amd64"
